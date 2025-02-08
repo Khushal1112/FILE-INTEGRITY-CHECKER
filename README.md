@@ -14,7 +14,6 @@
 
 # DESCRIPTION OF THE PROGRAM :
 
-Sure! Here’s a detailed explanation of the program in simple, human-friendly language.  
 
 ---
 
